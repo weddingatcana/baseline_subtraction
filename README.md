@@ -5,5 +5,15 @@ As such, most scientists and engineers use **Origin** or proprietary software fr
 
 
 ## basics
-These two techniques will have cost functions which will be minimized to find a staisfactory baseline. The corresponsing minimzed solution in matrix form is given below:
+These two techniques will have cost functions which will be minimized to find a staisfactory baseline. The corresponsing expressions are found below:
 
+*Weighted Least Squares*
+
+*Whittaker Henderson Smoothing*
+
+## usage
+Just plop the modules into Excel's VBE, and run the modules with the **prg** prefix with the settings of your choosing.
+
+*Weighted Least Squares*
+
+*Whittaker Henderson Smoothing*
